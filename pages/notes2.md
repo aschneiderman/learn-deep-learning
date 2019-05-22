@@ -1,7 +1,6 @@
 ---
 layout: content
 title: Notes
-permalink: /notes/
 image: 'chalk-many-818111-pxh.jpg'
 ---
 test
