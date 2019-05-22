@@ -12,4 +12,4 @@ test
 
 ## Terminology
 
-- [Learning Rate](jargon/learning-rate.html)
+- [Learning Rate](../pages/jargon/learning-rate.html)
