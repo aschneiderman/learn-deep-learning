@@ -1,9 +1,8 @@
 ---
-title: Learn Python via Blender
+title: Learn Deep Learning
 layout: content
 image: site-banner.jpg
 ---
 
 
-{ Thought experiment on getting to play with cool toys while learning Python -- in this case, Blender }
-
+My notes about Deep Learning

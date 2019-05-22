@@ -1,3 +1,3 @@
-# My Website
+# Learn Deep Learning
 
-{ Insert some info about the purpose of the site }
+Website for my notes about Deep Learning. If Makers All decides to go ahead with a pilot project around Deep Learning, this will get folded in at some point.
