@@ -10,4 +10,4 @@ image: 'chalk-many-818111-pxh.jpg'
 - [Gradient Descent](../pages/vocab/gradient-descent.html), including Stochastic Gradient Descent
 - [Learning Rate](../pages/vocab/learning-rate.html)
 - [Loss Rate](../pages/vocab/loss.html) and [Loss Function](../pages/vocab/loss.html)
-- [Overfitting](../pages/vocab/overfitting.html)
+- [Overfitting](../pages/vocab/over-under-fitting.html)
