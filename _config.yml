@@ -5,12 +5,16 @@ description:  Description of this site
 
 # Menu data for sitewide navigation
 navigation_links:
-  - name: About
-    link: 'about/'
+#  - name: About
+#    link: 'about/'
+  - name: Big Picture
+    link: 'big-picture/'
+  - name: Workflow
+    link: 'workflow/'
+  - name: Vocab
+    link: 'vocab/'
   - name: Resources
-    link: 'resources/'
-  - name: Notes
-    link: 'notes/'
+    link: 'resources'
   - name: Makers All
     link: 'https://makersall.org/'
 

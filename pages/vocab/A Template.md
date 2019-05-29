@@ -1,7 +1,6 @@
 ---
 layout: content
-title: Notes
-permalink: /notes/
+title: Loss Rate and Loss Function
 image: 'chalk-many-818111-pxh.jpg'
 
 ---

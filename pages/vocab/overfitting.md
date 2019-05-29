@@ -1,7 +1,6 @@
 ---
 layout: content
-title: Notes
-permalink: /notes/
+title: Overfitting
 image: 'chalk-many-818111-pxh.jpg'
 
 ---
