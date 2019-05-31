@@ -16,6 +16,9 @@ So, how do we create a function that does that?
 - Pictures are too complicated to do the math on,
 - so we'll start w something way, way simpler:  given temperature, predict how many ice creams sold (Lesson 2's ex)
 
+
+__NOTE:I think from here on, it's mostly Jeremy; need to check for whatever I decided to keep__
+
 The simplest function you can do:  for a line
 ```
 y = mx + b
@@ -85,7 +88,8 @@ The danger w epochs:  if you try to fit your data too many times, if you look at
 
 
 
-NOTE:  he's doing all this with numpy, so i could create a notebook on my desktop, grab his code, and play w it
- 
-
+ 
+ > So when we created that teddy bear detector, what we actually did was we created a mathematical function that took the numbers from the images of the teddy bears and a mathematical function converted those numbers into, in our case, three numbers: a number for the probability that it's a teddy, a probability that it's a grizzly, and the probability that it's a black bear. 
+ 
+ > In this case, there's some hypothetical function that's taking the pixel representing a handwritten digit and returning ten numbers: the probability for each possible outcome (i.e. the numbers from zero to nine).  So what you'll often see in our code and other deep learning code is that you'll find this bunch of probabilities and then you'll find a function called max or argmax attached to it. What that function is doing is, it's saying find the highest number (i.e. probability) and tell me what the index is. So np.argmax or torch.argmax of the above array would return the index 8.
 
